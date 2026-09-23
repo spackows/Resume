@@ -29,6 +29,10 @@ Seeking a 2027 summer internship position to apply engineering fundamentals, con
 - [Growing in Content: Writers are needed more than ever](https://github.com/spackows/Growing-in-Content_2025)
 - [AI ethics: From top-down to bottom-up](https://github.com/spackows/CASCON-2021_AI_ethics)
 
+## School team projects
+- [Mousetrap autonomous car](https://github.com/spackows/Mousetrap-Car_ENG8001)
+- [Warehouse robot arm](https://github.com/spackows/Robot-arm_ROB8112)
+
 ### Blog
 [sarah-packowski.medium.com](https://sarah-packowski.medium.com)
 
