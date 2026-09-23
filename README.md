@@ -32,7 +32,7 @@ Seeking a 2027 summer internship position to apply engineering fundamentals, con
 ### Blog
 [sarah-packowski.medium.com](https://sarah-packowski.medium.com)
 
-<img src="images/blogs.png" width="40%">
+<img src="images/blogs.png" width="60%">
 
 <p>&nbsp;</p>
 
